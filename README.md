@@ -2,7 +2,7 @@
 - I’m interested in programming software (and games for fun)
 - Currently learning C++, C#, and SQL across various projects
 - I've learned about agile development methodology, object oriented programming, and source control software
-- Capable with Github and Trello
+- Capable with Github, Trello, Plastic SCM, Word, and Excel
 
 <!---
 Vahlros/Vahlros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
