@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tomchapmandev
-- 👀 I’m interested in games and stuff
-- 🌱 I’m currently learning pomnuter speak
-- 💞️ I’m looking to collaborate on a glam rock hurdy gurdy folk band
-- 📫 How to reach me? I reach you...
+- Hi, I’m @tomchapdev
+- I’m interested in programming software (and games for fun)
+- Currently learning C++, C#, and SQL across various projects
+- I've learned about agile development methodology, object oriented programming, and source control software
+- Capable with Github and Trello
 
 <!---
 Vahlros/Vahlros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
